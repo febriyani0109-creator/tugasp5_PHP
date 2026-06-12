@@ -31,6 +31,6 @@
         echo "<strong>Alamat:</strong> {$alamat} <br>";
     }
 
-    ?>
+?>
 </body>
 </html>
